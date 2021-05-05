@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598814679 source:d:\college\term 4\data structure 1\all term 4 submitted project folders\infixprefix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
